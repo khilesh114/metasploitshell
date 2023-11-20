@@ -37,16 +37,7 @@ Saved as: android.apk
 Metasploit tip: Save the current environment with the save command, 
 future console restarts will use this environment again
                                                   
- _                                                    _
-/ \    /\         __                         _   __  /_/ __
-| |\  / | _____   \ \           ___   _____ | | /  \ _   \ \
-| | \/| | | ___\ |- -|   /\    / __\ | -__/ | || | || | |- -|
-|_|   | | | _|__  | |_  / -\ __\ \   | |    | | \__/| |  | |_
-      |/  |____/  \___\/ /\ \\___/   \/     \__|    |_\  \___\
-=[ metasploit v6.3.42-dev                          ]
-+ -- --=[ 2375 exploits - 1232 auxiliary - 416 post       ]
-+ -- --=[ 1391 payloads - 46 encoders - 11 nops           ]
-+ -- --=[ 9 evasion                                       ]
+
 
 Metasploit Documentation: https://docs.metasploit.com/
 
