@@ -56,8 +56,9 @@ Metasploit Documentation: https://docs.metasploit.com/
 [*] Processing android.txt for ERB directives.
 msf6 > exit
                                                                                                                           
-┌──(codex㉿kali)-[~/Desktop/projects/metasploitshell]
-└─$ msfconsole -r android.txt
+#┌──(codex㉿kali)-[~/Desktop/projects/metasploitshell]
+any error exit msfconsole and run command
+# └─$ msfconsole -r android.txt
 
 
 
