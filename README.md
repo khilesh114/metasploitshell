@@ -51,7 +51,8 @@ future console restarts will use this environment again
 Metasploit Documentation: https://docs.metasploit.com/
 
 [*] Processing android.txt for ERB directives.
-msf6 > exit
+exit msfconsole 
+# emsf6 > exit
                                                                                                                           
 #┌──(codex㉿kali)-[~/Desktop/projects/metasploitshell]
 any error exit msfconsole and run command
