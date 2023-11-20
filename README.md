@@ -3,21 +3,20 @@ made by khilesh
 # simple reverse shell gerneter tool
 
 # commands
-git clone https://github.com/khilesh114/metasploitshell
-cd metasploitshell
-sudo python3 msv.py
+        git clone https://github.com/khilesh114/metasploitshell
+        cd metasploitshell
+        sudo python3 msv.py
 
 ──(codex㉿kali)-[~/Desktop/projects/metasploitshell]
 └─$ python3 msv.py
 metasploit fremwork
 enter ip addres ex 127.0.0.1
 enter port ex 8080
-
-        windows          [1]
-        linux            [2]
-        android          [3]
-        antivirus bypass [4]
-        exit tool        [5]
+windows [1]
+linux   [2]
+android [3]
+antivirus bypass [4]
+exit tool  [5]
 enter a number :-3
 
  
@@ -44,9 +43,7 @@ future console restarts will use this environment again
 | | \/| | | ___\ |- -|   /\    / __\ | -__/ | || | || | |- -|
 |_|   | | | _|__  | |_  / -\ __\ \   | |    | | \__/| |  | |_
       |/  |____/  \___\/ /\ \\___/   \/     \__|    |_\  \___\
-
-
-       =[ metasploit v6.3.42-dev                          ]
+=[ metasploit v6.3.42-dev                          ]
 + -- --=[ 2375 exploits - 1232 auxiliary - 416 post       ]
 + -- --=[ 1391 payloads - 46 encoders - 11 nops           ]
 + -- --=[ 9 evasion                                       ]
